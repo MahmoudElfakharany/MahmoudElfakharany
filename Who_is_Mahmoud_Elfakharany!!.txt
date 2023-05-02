@@ -1,0 +1,84 @@
+Mahmoud EL-fakharany
+Full Stack Developer
+Location: Zayed, Giza, Egypt     Cell Phone: +201008143474,  +201501444040   Military Status: Exempted
+Email: m.a.el-fakharany@hotmail.com       LinkedIn           GitHub
+Summary
+“Full Stack developer and ITI graduate keen on pursuing a career in software engineering with a leading tech company.”
+Excelled in web design and development. Looking for applying my skills and knowledge in a role to grow a career and support a range of colleagues. Willing to work in a more challenging atmosphere and environment to enhance further more my skills and knowledge.
+Education 
+
+	ITI Professional Training Program (9-Month Scholarship) 			      Oct 2022 – Jul 2023
+Open-Source Application Development track.
+	Faculty of engineering, Tanta University		                                              Sep 2015 – Jul 2020 
+Bachelor degree in Architecture. 
+Career Summary
+	EHAF consulting engineers. (Full-time)					      Feb 2021 – Jul 2022
+An architect responsible for designing working drawings in over 4 mega projects
+ in 2 countries (Egypt and Qatar) using BIM and AutoCAD.
+Trainings 
+	Khatib & Alami - misr consultants.  						       August 2018
+	Engineering House Construction & Design.					       July 2017
+	E-Planet courses center.       							       June 2017
+Projects
+
+•	E-commerce Site								      Dec 2022 – Jan 2023
+Description: Full stack web application as online café shop serving hotel guests
+consists of 2 modules (user and admin) and 12 pages. (LINK)
+Technologies: Vanilla JavaScript and Pure PHP and MySQL.
+•	Data-Base Engine								      February 2023
+Description: Fully functional Data-Base engine with all necessary CRUD 
+operation features available. (LINK)
+Technologies: implemented with Bash-Script.
+•	Job Hiring System								      Feb 2023 – Mar 2023
+Description: Full stack hiring website providing jobs, applying exams and keeping
+tracks of results on 2 modules (applicant and admin) and 16 pages. (LINK)
+Technologies: Laravel and Angular frameworks.
+•	To-do Application								       April  2023
+Description: Cross-platform mobile application to keep track of your to-do list, 
+adding a to-do description and checking them. The app contains 2 screens. (LINK)
+Technologies: made using React-Native and Redux.
+Software Skills
+•	Client-Side Technologies:
+o	HTML5
+o	ES6
+o	Bootstrap	o	CSS3
+o	J-Query
+o	Tailwind
+•	Front-end Frameworks:
+o	Angular
+o	Vue JS	o	React
+o	React Native
+•	Version Control:
+o	Git	o	Git Hub
+•	Others:
+o	Figma
+o	Docker	o	Trello
+	•	Back-end Technologies:
+o	Laravel
+o	Django
+o	Odoo	o	NodeJS
+o	Ruby on Rails
+•	Programming Languages:
+o	C
+o	Python
+o	PHP
+o	Bash Script	o	C++
+o	Java
+o	Ruby
+•	Data Bases:
+o	MySQL	o	MongoDB
+
+
+
+Soft Skills
+•	Leadership.	•	Agile Methodology.
+•	Teamwork.	•	Work ethic.
+•	Problem-solving. 
+•	Time management.	•	Adaptability.
+Languages 
+•	Arabic: Mother tongue. 
+•	English: Fluent.
+
+References 
+     Available on request
+

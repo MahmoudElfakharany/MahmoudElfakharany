@@ -1,1 +1,1 @@
-![my image](img.png)
+![my image](img.avif)
